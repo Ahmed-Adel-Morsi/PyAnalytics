@@ -1,6 +1,6 @@
-# Data Science Zep
+# PyAnalytics
 
-Welcome to the Data Science Zep repository, a platform designed to explore and showcase data science projects, experiments, and insights. Whether you're a data scientist, analyst, or enthusiast, Data Science Zep provides a space to share and discover the fascinating world of data.
+Welcome to the PyAnalytics repository, a platform designed to explore and showcase data science projects, experiments, and insights. Whether you're a data scientist, analyst, or enthusiast, PyAnalytics provides a space to share and discover the fascinating world of data.
 
 ## Table of Contents
 
@@ -21,14 +21,14 @@ Welcome to the Data Science Zep repository, a platform designed to explore and s
 
 ## Demo
 
-Explore the world of data science on [Data Science Zep](https://ahmed-adel-morsi.github.io/Data-Science-Zep/).
+Explore the world of data science on [Data Science PyAnalytics](https://ahmed-adel-morsi.github.io/PyAnalytics/).
 
 ## Getting Started
 
-To get started with Data Science Zep, clone this repository:
+To get started with Data Science PyAnalytics, clone this repository:
 
 ```bash
-git clone https://github.com/Ahmed-Adel-Morsi/Data-Science-Zep.git
+git clone https://github.com/Ahmed-Adel-Morsi/Data-Science-PyAnalytics.git
 ```
 
 Alternatively, download the ZIP file and extract it to your desired location.
@@ -38,7 +38,7 @@ Alternatively, download the ZIP file and extract it to your desired location.
 Create your data science project by adding HTML and Markdown files to the `projects/` directory. Customize the content, charts, and analyses to showcase your data insights.
 
 ```plaintext
-Data-Science-Zep/
+PyAnalytics/
 |-- index.html
 |-- projects/
 |   |-- project1.html
@@ -50,8 +50,8 @@ Data-Science-Zep/
 
 ## Contributing
 
-Contribute to the Data Science Zep community by adding your projects or improving existing ones. Submit a pull request, and let's build a rich collection of data science insights together!
+Contribute to the Data Science PyAnalytics community by adding your projects or improving existing ones. Submit a pull request, and let's build a rich collection of data science insights together!
 
 ---
 
-Thank you for being part of the Data Science Zep community! If you have any questions or suggestions, please [create an issue](https://github.com/Ahmed-Adel-Morsi/Data-Science-Zep/issues).
+Thank you for being part of the Data Science PyAnalytics community! If you have any questions or suggestions, please [create an issue](https://github.com/Ahmed-Adel-Morsi/Data-Science-PyAnalytics/issues).
