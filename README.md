@@ -21,14 +21,14 @@ Welcome to the PyAnalytics repository, a platform designed to explore and showca
 
 ## Demo
 
-Explore the world of data science on [Data Science PyAnalytics](https://ahmed-adel-morsi.github.io/PyAnalytics/).
+Explore the world of data science on [PyAnalytics](https://ahmed-adel-morsi.github.io/PyAnalytics/).
 
 ## Getting Started
 
-To get started with Data Science PyAnalytics, clone this repository:
+To get started with PyAnalytics, clone this repository:
 
 ```bash
-git clone https://github.com/Ahmed-Adel-Morsi/Data-Science-PyAnalytics.git
+git clone https://github.com/Ahmed-Adel-Morsi/PyAnalytics.git
 ```
 
 Alternatively, download the ZIP file and extract it to your desired location.
@@ -50,8 +50,8 @@ PyAnalytics/
 
 ## Contributing
 
-Contribute to the Data Science PyAnalytics community by adding your projects or improving existing ones. Submit a pull request, and let's build a rich collection of data science insights together!
+Contribute to the PyAnalytics community by adding your projects or improving existing ones. Submit a pull request, and let's build a rich collection of data science insights together!
 
 ---
 
-Thank you for being part of the Data Science PyAnalytics community! If you have any questions or suggestions, please [create an issue](https://github.com/Ahmed-Adel-Morsi/Data-Science-PyAnalytics/issues).
+Thank you for being part of the PyAnalytics community! If you have any questions or suggestions, please [create an issue](https://github.com/Ahmed-Adel-Morsi/PyAnalytics/issues).
