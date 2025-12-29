@@ -1,57 +1,72 @@
 # PyAnalytics
 
-Welcome to the PyAnalytics repository, a platform designed to explore and showcase data science projects, experiments, and insights. Whether you're a data scientist, analyst, or enthusiast, PyAnalytics provides a space to share and discover the fascinating world of data.
+Static landing page for a **Data Science with Python** event (webinar-style layout). Built with pure **HTML + CSS** with a focus on layout fundamentals and responsive design.
 
-## Table of Contents
+![PyAnalytics Landing Page](Images/landing.jpg)
 
-- [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
+## Live Demo
+
+- Demo: https://ahmed-adel-morsi.github.io/PyAnalytics/
 
 ## Features
 
-- Platform for data science projects
-- Interactive and visual presentations
-- Easily share data insights
-- Explore various datasets
-- HTML and Markdown support
-- Responsive design
+- Semantic page structure: header, sections, footer
+- Responsive navigation with a mobile dropdown (CSS only)
+- Layout built with **CSS Grid** and **Flexbox**
+- Reusable design tokens via **CSS variables**
+- Icons via **Font Awesome** + fonts via **Google Fonts**
 
-## Demo
+## Page Sections
 
-Explore the world of data science on [PyAnalytics](https://ahmed-adel-morsi.github.io/PyAnalytics/).
+- Hero (event title + date)
+- Agenda
+- Attend (cards)
+- About
+- Pricing plans
+- Contact + social
 
-## Getting Started
+## Tech Stack
 
-To get started with PyAnalytics, clone this repository:
+- HTML5
+- CSS3 (Grid, Flexbox, Media Queries)
+- Font Awesome (local CSS + webfonts)
+- Google Fonts
+
+## Run Locally
+
+1. Clone:
 
 ```bash
 git clone https://github.com/Ahmed-Adel-Morsi/PyAnalytics.git
 ```
 
-Alternatively, download the ZIP file and extract it to your desired location.
+2. Open `index.html` in your browser.
 
-## Usage
+Optional: run a tiny local server (recommended if you use relative assets):
 
-Create your data science project by adding HTML and Markdown files to the `projects/` directory. Customize the content, charts, and analyses to showcase your data insights.
+```bash
+python -m http.server 5500
+```
+
+Then open: http://localhost:5500
+
+## Project Structure
 
 ```plaintext
 PyAnalytics/
 |-- index.html
-|-- projects/
-|   |-- project1.html
-|   |-- project2.md
-|-- images/
+|-- css/
+|   |-- main.css
+|   |-- all.css
+|-- Images/
+|   |-- landing.jpg
+|   |-- Python_final_logo.png
 |   |-- ...
-|-- ...
+|-- webfonts/
+|-- Fonts/
 ```
 
 ## Contributing
 
-Contribute to the PyAnalytics community by adding your projects or improving existing ones. Submit a pull request, and let's build a rich collection of data science insights together!
-
----
-
-Thank you for being part of the PyAnalytics community! If you have any questions or suggestions, please [create an issue](https://github.com/Ahmed-Adel-Morsi/PyAnalytics/issues).
+PRs and suggestions are welcome. If you find a bug or want to propose an improvement, please open an issue:
+https://github.com/Ahmed-Adel-Morsi/PyAnalytics/issues
