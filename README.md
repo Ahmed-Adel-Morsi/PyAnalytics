@@ -2,8 +2,6 @@
 
 Static landing page for a **Data Science with Python** event (webinar-style layout). Built with pure **HTML + CSS** with a focus on layout fundamentals and responsive design.
 
-![PyAnalytics Landing Page](Images/landing.jpg)
-
 ## Live Demo
 
 - Demo: https://ahmed-adel-morsi.github.io/PyAnalytics/
