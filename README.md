@@ -53,15 +53,7 @@ PyAnalytics is a static, responsive landing page for a **Data Science with Pytho
 git clone https://github.com/Ahmed-Adel-Morsi/PyAnalytics.git
 ```
 
-2. Open [index.html](index.html) in your browser.
-
-Optional: run a local server if you want to serve the project with relative assets:
-
-```bash
-python -m http.server 5500
-```
-
-Then visit http://localhost:5500
+2. Open [index.html](index.html) directly in your browser.
 
 ## 📦 Project Structure
 
